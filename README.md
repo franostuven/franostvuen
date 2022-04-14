@@ -2,7 +2,7 @@
 Soy Analista de Sistemas, siempre tuve pasión por programar y ahora lo hago en forma Web, con VueJs, javaScript, Html5, Css, Boostrap, PrimeVue, Php, Axios entre otros. Estos  son las herramientas que mas conozco pero siempre sigo prendiendo algo más !!!.
 
 # Lenguajes y Herramientas
-<img src="https://user-images.githubusercontent.com/67288434/163403884-1ce4499f-046b-4b9e-9d7d-0ce73b1522ae.png" alt="vuejs" height=100px  width="200px">
+<img src="https://user-images.githubusercontent.com/67288434/163403884-1ce4499f-046b-4b9e-9d7d-0ce73b1522ae.png" alt="vuejs" height=100px  >
 ![]()
 ![JS](https://user-images.githubusercontent.com/67288434/163403905-257c543c-6ce7-4fa1-a302-db87e6463b0d.png)
 ![HTML](https://user-images.githubusercontent.com/67288434/163403929-1055ccde-6cba-498f-b877-d3cc94e353f5.png)
