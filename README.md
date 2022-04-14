@@ -2,6 +2,7 @@
 Soy Analista de Sistemas, siempre tuve pasión por programar y ahora lo hago en forma Web, con VueJs, javaScript, Html5, Css, Boostrap, PrimeVue, Php, Axios entre otros. Estos  son las herramientas que mas conozco pero siempre sigo prendiendo algo más !!!.
 
 # Lenguajes y Herramientas
+
 |<img src="https://user-images.githubusercontent.com/67288434/163403884-1ce4499f-046b-4b9e-9d7d-0ce73b1522ae.png" alt="vuejs" height=50px >|
 <img src="https://user-images.githubusercontent.com/67288434/163403905-257c543c-6ce7-4fa1-a302-db87e6463b0d.png" alt="JavaScrip" height=50px >|
 <img src="https://user-images.githubusercontent.com/67288434/163403929-1055ccde-6cba-498f-b877-d3cc94e353f5.png" alt="HTML" height=50px >|
@@ -16,6 +17,7 @@ Soy Analista de Sistemas, siempre tuve pasión por programar y ahora lo hago en 
 
 
 #Pueden Contactarme
-|<img src="https://user-images.githubusercontent.com/67288434/163404390-d394b597-166b-4c61-b0b7-2ab72e725a53.png" alt="LinkeIn" height=100px >|
+
+<img src="https://user-images.githubusercontent.com/67288434/163404390-d394b597-166b-4c61-b0b7-2ab72e725a53.png" alt="LinkeIn" height=100px >|
 <img src="https://user-images.githubusercontent.com/67288434/163404398-6d731200-b68e-4a7e-ba09-c44d7a4a4575.png" alt="WP" height=100px >|
 <img src="https://user-images.githubusercontent.com/67288434/163404410-0cbc0d35-e58b-48c2-b641-4bdb58bad9d2.png" alt="@" height=100px >|
