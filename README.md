@@ -8,4 +8,4 @@ Soy Analista de Sistemas, siempre tuve pasión por programar y ahora lo hago en 
 
 #Pueden Contactarme
 
-<img src="https://user-images.githubusercontent.com/67288434/163404390-d394b597-166b-4c61-b0b7-2ab72e725a53.png" alt="LinkeIn" height=50px ><img src="https://user-images.githubusercontent.com/67288434/163404398-6d731200-b68e-4a7e-ba09-c44d7a4a4575.png" alt="WP" height=50px ><img src="https://user-images.githubusercontent.com/67288434/163404410-0cbc0d35-e58b-48c2-b641-4bdb58bad9d2.png" alt="@" height=50px >
+<img src="https://user-images.githubusercontent.com/67288434/163404390-d394b597-166b-4c61-b0b7-2ab72e725a53.png" alt="LinkeIn" height=50px >      <img src="https://user-images.githubusercontent.com/67288434/163404398-6d731200-b68e-4a7e-ba09-c44d7a4a4575.png" alt="WP" height=50px >     <img src="https://user-images.githubusercontent.com/67288434/163404410-0cbc0d35-e58b-48c2-b641-4bdb58bad9d2.png" alt="@" height=50px >
